@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">I'm a front-end engineer living in Japan.</h3>
 
-<p> :rocket:	 I’m currently learning Framer, GSAP, Nodejs </p>
 <p> 👯 I’m looking to collaborate on open-source and freelance projects</p>
 <p> 📫 Reach me via louisphn@gmail.com</p>
 
@@ -22,20 +21,3 @@
 ## 	:chart_with_upwards_trend: Github stats
 <a href="#">![alt text](https://github-readme-stats.vercel.app/api?username=louisphn&custom_title=louisphn&count_private&show_icons=true&theme=material-palenight)</a>
 <a href="#">![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=louisphn&layout=compact&theme=material-palenight)</a>
-
-<!--
-<a href="#"> ![alt text]()</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisphn&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-**louisphn/louisphn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
