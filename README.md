@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">I'm a front-end engineer living in Japan.</h3>
 
-<p> 👯 I’m looking to collaborate on open-source and freelance projects</p>
-<p> 📫 Reach me via louisphn@gmail.com</p>
+<p>I’m looking to collaborate on open-source and freelance projects</p>
+<p>Reach me via louisphn@gmail.com</p>
 
 
 ## :gear:	Technologies & tools 
