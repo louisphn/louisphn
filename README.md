@@ -16,8 +16,3 @@
 - Adobe XD
 - Adobe Illustrator
 - Adobe Photoshop 
-
-
-## 	:chart_with_upwards_trend: Github stats
-<a href="#">![alt text](https://github-readme-stats.vercel.app/api?username=louisphn&custom_title=louisphn&count_private&show_icons=true&theme=material-palenight)</a>
-<a href="#">![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=louisphn&layout=compact&theme=material-palenight)</a>
